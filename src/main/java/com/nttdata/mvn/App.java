@@ -8,6 +8,7 @@ import com.google.gson.Gson;
 
 public class App {
     public static void main(String[] args) {
+        //Comentario desde GitHub
         String usuarioCorrecto = "jloperub";
 
         Scanner scanner = new Scanner(System.in);
